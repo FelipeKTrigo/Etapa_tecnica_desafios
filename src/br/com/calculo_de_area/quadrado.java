@@ -1,6 +1,6 @@
 package br.com.calculo_de_area;
 
-public abstract class quadrado implements AreaCalculavel{
+public class quadrado implements AreaCalculavel{
 
     public double lado;
 

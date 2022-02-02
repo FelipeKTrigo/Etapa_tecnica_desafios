@@ -1,6 +1,6 @@
 package br.com.calculo_de_area;
 
-public abstract class circulo implements AreaCalculavel{
+public class circulo implements AreaCalculavel{
 
     public double pi = 3.14;
     public double raio;

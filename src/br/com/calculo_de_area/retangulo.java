@@ -1,6 +1,6 @@
 package br.com.calculo_de_area;
 
-public abstract class retangulo implements AreaCalculavel{
+public class retangulo implements AreaCalculavel{
 
     public double largura;
     public double altura;
